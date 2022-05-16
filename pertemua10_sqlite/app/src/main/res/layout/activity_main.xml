@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="24dp"
+    tools:context=".MainActivity">
+
+    <EditText
+        android:id="@+id/edtNama"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="Nama"/>
+
+    <EditText
+        android:id="@+id/edtUsia"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="number"
+        android:hint="Umur"/>
+
+    <Button
+        android:id="@+id/btnSimpan"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="SIMPAN"
+        />
+    <Button
+        android:id="@+id/btnHapus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="HAPUS"
+        android:backgroundTint="#ff0000"
+        />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/hasil"
+        android:textSize="18sp"/>
+
+    <EditText
+        android:id="@+id/edtCari"
+        android:layout_marginTop="50dp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:inputType="text"
+        android:hint="Search"/>
+
+    <Button
+        android:id="@+id/btnCari"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Search"
+        android:backgroundTint="#0000ff"
+        />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Hasil Pencarian : "
+        android:textStyle="bold"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/hasilCari"
+        android:textSize="18sp"/>
+
+</LinearLayout>
