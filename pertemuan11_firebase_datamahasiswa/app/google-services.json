@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1083730253688",
+    "project_id": "data-mahasiswa-89dc9",
+    "storage_bucket": "data-mahasiswa-89dc9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1083730253688:android:8a66f477fb4ba4f074da8d",
+        "android_client_info": {
+          "package_name": "com.example.pertemuan11_firebase_datamahasiswa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1083730253688-rfvr02tq2uvlat2sf69n2m1e9fajprue.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5U4unyKtq1Rx0ZlX2BgLK1H4ittH6BmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1083730253688-rfvr02tq2uvlat2sf69n2m1e9fajprue.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
