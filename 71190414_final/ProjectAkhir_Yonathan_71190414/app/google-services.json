@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "547527531215",
+    "project_id": "projectakhir-yonathan",
+    "storage_bucket": "projectakhir-yonathan.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:547527531215:android:2524723dc2d680187c35ba",
+        "android_client_info": {
+          "package_name": "com.example.projectakhir_yonathan_71190414"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "547527531215-34ev7337ceqmildnq9ipbqnfj4oemnvs.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectakhir_yonathan_71190414",
+            "certificate_hash": "391e611ca040e15b213e5d41a2189fc38154afba"
+          }
+        },
+        {
+          "client_id": "547527531215-akbvn1ht3l7sdg90mtq4a8bqhvjdrg7e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.projectakhir_yonathan_71190414",
+            "certificate_hash": "5738264e5b59ceb1bb9f3f62c74a853f8799c955"
+          }
+        },
+        {
+          "client_id": "547527531215-731guen92c9jr0hapve00kf4njtpen9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQ2ncJAnL0rjfxirkSUeg9rNheLok2LKg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "547527531215-731guen92c9jr0hapve00kf4njtpen9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
